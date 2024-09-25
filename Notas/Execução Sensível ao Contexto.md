@@ -1,0 +1,1 @@
+Ao usar a diretiva `#pragma omp declare variant`, os desenvolvedores podem especificar as condições sob as quais uma variante particular deve ser usada. Essa abordagem sensível ao contexto permite que o runtime do OpenMP selecione a variante de função mais apropriada com base no contexto de execução atual, levando a um melhor desempenho 

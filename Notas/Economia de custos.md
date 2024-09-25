@@ -1,0 +1,1 @@
+Uma rede [[Blockchain]] reduz as despesas de varias maneiras. Não há necessidade de verificação de terceiros, permitindo que os participantes compartilhem ativos diretamente e reduzindo a necessidade de intermediários.

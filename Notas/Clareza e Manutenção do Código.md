@@ -1,0 +1,1 @@
+ Declarar variantes de funções ajuda a organizar o código ao definir claramente diferentes implementações de uma função. Isso pode tornar a base de código mais fácil de entender e manter, já que o propósito e o contexto de cada variante são explicitamente declarados

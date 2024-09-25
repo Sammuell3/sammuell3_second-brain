@@ -1,0 +1,17 @@
+#blockchain #smart-contracts 
+
+[[Introdução ao Blockchain - Bitcoin]]
+[[Introdução ao Blockchain - Ethereum]]
+[[Blockchain Trilema]]
+[[Blockchain e Criptomoedas]]
+[[Smart Contract]]
+[[Consenso ]]
+[[Prova de Trabalho]]
+[[Prova de Participação]]
+[[Gas fee]]
+[[Fork]]
+[[Layers]]
+[[Rollups]]
+[[Privacy Coin]]
+[[Exploradores de Bloco]]
+[[Tipos de Blockchains]]

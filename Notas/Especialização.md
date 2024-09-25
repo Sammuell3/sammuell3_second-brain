@@ -1,0 +1,1 @@
+Variantes de funções permitem que os desenvolvedores criem versões especializadas de uma função base que podem ser otimizadas para diferentes contextos ou ambientes de execução. Isso significa que a mesma operação lógica pode ser implementada de várias maneiras, adaptadas às capacidades específicas do hardware ou aos requisitos de desempenho

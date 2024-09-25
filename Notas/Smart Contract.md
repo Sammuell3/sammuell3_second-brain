@@ -1,0 +1,2 @@
+#blockchain #smart-contracts 
+Um Smart Contract é um programa armazenado em uma blockchain, que executa automaticamente quando suas condições são atendidas. Qualquer desenvolvedor pode criar um, pagando uma taxa na rede.

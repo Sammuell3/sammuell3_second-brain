@@ -1,0 +1,1 @@
+Diferentes variantes podem aproveitar características específicas do hardware, como vetorização ou capacidades de execução paralela. Ao declarar variantes, os desenvolvedores podem garantir que a implementação mais eficiente seja escolhida em tempo de execução, o que pode melhorar significativamente o desempenho de aplicações paralelas

@@ -1,0 +1,1 @@
+Prova de Participação (PoS) é um mecanismo de consenso em que validadores são escolhidos para verificar transações com base na quantidade de criptomoeda que possuem e estão dispostos a "travar" na rede.

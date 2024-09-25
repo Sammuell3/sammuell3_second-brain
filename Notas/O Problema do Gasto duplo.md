@@ -1,0 +1,2 @@
+O problema do gasto duplo ocorre quando um ativo é utilizado duas vezes para realizar uma transação. Normalmente, esse problema está associado a questões do ambiente digital. No entanto, o gasto duplo também pode ocorrer fora do ambiente digital. Um exemplo disso é a inflação, que é gerada pelo governo quando imprime dinheiro, aumentando assim a base monetária. Mas isso é um assunto para outra ocasião.
+

@@ -1,0 +1,1 @@
+As variantes de funções podem ser integradas com outros recursos do OpenMP, como tarefas e descarregamento, permitindo padrões de programação paralela mais complexos e eficientes. Essa compatibilidade aumenta a capacidade geral do OpenMP para lidar com cenários diversos de computação paralela

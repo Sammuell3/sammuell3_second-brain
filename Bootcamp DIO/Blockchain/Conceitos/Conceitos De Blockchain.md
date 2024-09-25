@@ -1,0 +1,17 @@
+#blockchain #smart-contracts 
+
+[[Dados Distribuídos]]
+[[Centralizado]]
+[[Descentralizado]]
+[[Distribuído]]
+[[Node(nós)]]
+[[Full-nodes]]
+[[Mining-nodes]]
+[[Light-node]]
+[[Super-node]]
+[[Ethereum]]
+[[Ether(ETH)]]
+[[Smart Contract]]
+[[(EVM)]]
+[[Solidity]]
+[[Trilema]]

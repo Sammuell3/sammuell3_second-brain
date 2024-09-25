@@ -1,0 +1,2 @@
+Na rede Ethereum, há um único computador canônico chamado Ethereum Virtual Machine (EVM). Ele executa todos os contratos inteligentes e transações na blockchain de forma descentralizada.
+#blockchain #smart-contracts 

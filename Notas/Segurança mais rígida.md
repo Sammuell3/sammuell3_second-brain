@@ -1,0 +1,1 @@
+Ninguém pode alterar os dados da [[Blockchain]], pois ela é compartilhada entre milhões de participantes. O sistema é seguro contra crimes cibernéticos e fraudes.

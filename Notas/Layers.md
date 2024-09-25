@@ -1,0 +1,1 @@
+Layers são soluções construídas sobre a blockchain para melhorar sua eficiência. Elas ajudam a aumentar a escalabilidade e reduzir custos, sem comprometer a segurança da rede principal.

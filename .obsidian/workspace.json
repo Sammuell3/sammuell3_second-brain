@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "54d2de6277ecbfbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "31ee443117651ace",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb5face87c23753e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8244b04965877194",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a5aeadc07433313",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99abc42896b9a20a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "06c27d6921a67b9c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#blockchain",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2e2a40afe5278272",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 290.5026054382324
+  },
+  "right": {
+    "id": "3e0579cb8b029c8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ab43d9b529ea82f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7d6e1854c9bfcd3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "21c0497781f39bcd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ab1a01a91b9cdacc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5fc6a0e6ea66e67b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "bb5face87c23753e",
+  "lastOpenFiles": [
+    "Bootcamp DIO/Blockchain/Bitcoin/Introdução ao Blockchain - Bitcoin.md",
+    "Notas/MOC Ciência da Computação.md",
+    "Notas/Modelos de Consistência Distribuída.md",
+    "Notas/Introdução a Sistemas Paralelos.md",
+    "Mapa de Conteúdo - Principal.md",
+    "Notas/MOC Programação.md",
+    "Notas/MOC Economia.md",
+    "Notas/MOC Filosofia.md",
+    "Notas/MOC Aprendendo a Aprender.md",
+    "Notas/Formação ChatGPT for Devs.md",
+    "Notas/MOC Blockchain.md",
+    "Notas/1.Primeiro Semestre.md",
+    "Templates/Templates - Bootcamp DIO.md",
+    "Curso Coursera/Aprendendo a Aprender/Aprendendo a aprender.md",
+    "Ciência da Computação/Aprendendo com O Rhark/undefined/Resumo-dos-materiais-das-aulas.md",
+    "Ciência da Computação/Aprendendo com O Rhark/undefined/Quais são os principais recursos das diretivas OpenMP 5.0?.md",
+    "Ciência da Computação/Aprendendo com O Rhark/undefined/OPENMP 5.0.md",
+    "Ciência da Computação/Aprendendo com O Rhark/undefined/explicaçâo do propósito de declarar variantes de função no OpenMP?.md",
+    "Ciência da Computação/Aprendendo com O Rhark/undefined/Como funcionam as metadiretivas no OpenMP?.md",
+    "Ciência da Computação/Aprendendo com O Rhark/Aprendendo Sem Estado.md",
+    "Notas/3R.md",
+    "Notas/Tecnica de Prompt.md",
+    "Notas/FTAE.md",
+    "Bootcamp DIO/Formação ChatGPT for Devs/Prompt/Prompt.md",
+    "Bootcamp DIO/Blockchain/Introdução/Introdução ao Blockchain.md",
+    "Bootcamp DIO/Blockchain/Introdução/Introdução á Experiencia Blockchain e web 3.md",
+    "Notas/Captura de tela de 2024-09-22 08-17-43.png",
+    "Bootcamp DIO/Blockchain/Blockchain Trilema",
+    "Bootcamp DIO/Blockchain/Ethereum",
+    "Notas/Captura de tela de 2024-09-21 20-33-29.png",
+    "Bootcamp DIO/Formação ChatGPT for Devs/Prompt",
+    "Bootcamp DIO/Formação ChatGPT for Devs",
+    "Bootcamp DIO/Blockchain/Conceitos",
+    "Bootcamp DIO/Blockchain/Introdução",
+    "Ciência da Computação/Aprendendo com O Rhark/undefined",
+    "Ciência da Computação/Universidade Brasileira Livre/Primeiro Semestre/Circuitos Digitais",
+    "Ciência da Computação/Universidade Brasileira Livre/Primeiro Semestre",
+    "Bootcamp DIO/Blockchain/Bitcoin"
+  ]
+}

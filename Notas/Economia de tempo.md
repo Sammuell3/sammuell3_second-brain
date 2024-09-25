@@ -1,0 +1,1 @@
+Nenhuma verificação de uma autoridade central para liquidação, tornando o processo mais rápido e barato.

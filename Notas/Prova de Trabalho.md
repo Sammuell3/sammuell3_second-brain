@@ -1,0 +1,1 @@
+Prova de Trabalho (PoW) é um mecanismo de consenso usado em blockchains, onde computadores resolvem problemas matemáticos complexos para validar transações e adicionar blocos à rede.
